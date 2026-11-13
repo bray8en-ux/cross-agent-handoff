@@ -1,5 +1,13 @@
 # V0.1 → V0.2 RC 变更清单
 
+## 2026-11-13 — Release packaging and documentation
+
+- Added concise English/Chinese fresh-install commands.
+- Moved the existing guarded installation and rollback scripts to INSTALL.md and INSTALL.zh-CN.md.
+- Added a 15-second illustrated handoff GIF.
+- Prepared the versioned GitHub pre-release ZIP and SHA256 attachment.
+- Protocol, Skill resources, and existing validation limitations are unchanged.
+
 ## 已有能力继续保留
 
 V0.1 已具备交接、恢复、按需扩展平台三模式，以及复用项目事实源、核对真实文件/Git、记录测试和下一步的基础协议。V0.2 不把这些重新计为新增功能，不强制引入任务管理目录。

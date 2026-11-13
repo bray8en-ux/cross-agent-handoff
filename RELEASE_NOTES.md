@@ -1,6 +1,6 @@
 # v0.2.0-rc.1
 
-日期：2026-10-31。状态：独立 Release Candidate，等待人工验收，未正式替换或发布。
+历史候选记录日期：2026-10-31。以下历史说明保留当时的验收边界。
 
 ## 本候选收录什么
 
@@ -27,3 +27,11 @@ This release candidate packages the final Phase 1A workflow without new behavior
 ## DocsFix 2026-10-31（独立副本，等待最终复审）
 
 仅补齐双语安装、卸载、升级、回滚与 FAQ；README.md 为英文，新增 README.zh-CN.md，旧 README.en.md 为兼容入口。协议、模板、触发规则和许可不变。重新计算此副本清单与 ZIP，不覆盖原 RC。新包验证不沿用旧包 PASS。
+
+
+## Packaging refresh — 2026-11-13
+
+- Added short bilingual installation entries; moved guarded ZIP/install/upgrade/removal/rollback scripts to INSTALL.md and INSTALL.zh-CN.md.
+- Added a 15-second illustrated handoff GIF, explicitly labeled as an illustration rather than a live host recording.
+- Prepared the versioned ZIP and its adjacent SHA256 file for the GitHub pre-release.
+- Skill, template and platform reference behavior are unchanged. Existing NOT VERIFIED / NOT RUN / NOT TESTED limitations remain unchanged.
