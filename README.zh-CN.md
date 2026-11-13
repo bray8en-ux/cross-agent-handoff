@@ -1,3 +1,5 @@
+![Cross-Agent Handoff — 换个 AI，接着做](assets/cover-zh-CN.png)
+
 # Cross-Agent Handoff
 
 [English](README.md) · **v0.2.0-rc.1** · MIT · GitHub 预发布候选版；测试范围与限制见 [VALIDATION.md](VALIDATION.md)。

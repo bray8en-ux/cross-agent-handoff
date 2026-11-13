@@ -1,3 +1,5 @@
+![Cross-Agent Handoff — Switch AI. Keep building.](assets/cover-en.png)
+
 # Cross-Agent Handoff
 
 [中文说明](README.zh-CN.md) · **v0.2.0-rc.1** · MIT · Pre-release candidate. See [validation and limitations](VALIDATION.md).
